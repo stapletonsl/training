@@ -3,22 +3,26 @@
 
 In these lessons we use Open Refine, an open source tool to scrutinize, clean, organise, combine and transform data.  It is particularly powerful when working with large datasets. The tool automatically tracks changes made to the data, producing a script to enable reproducibility and documentation to provide verification.  Many people comment that this tool saves them months of work trying to edit and clean by hand. 
 Learn these data wrangling skills at the beginning of data collection:
- - sort and summarize data
- - find and correct errors in bulk
- - filter and explore 
- - examine numbers
- - create ['tidy data'](https://vita.had.co.nz/papers/tidy-data.pdf)
- - create scripts to document steps taken
- - apply scripts to clean additional data
- - export and save in other file formats
+- explore tabular data through facets and filters
+- implement ['tidy data principles'](https://vita.had.co.nz/papers/tidy-data.pdf)
+- clean, organise and prepare data for analysis
+- use basic features of OpenRefine
+- extract and reuse a reproducible script to repeat processing on similar data
 
 Adapted from [Data Carpentry lessons for Social Science](https://datacarpentry.org/lessons/#social-science-curriculum/) 
 
-___
+### Advanced OpenRefine
 
-### Markdown
+These lessons teach advanced data wrangling skills including combining datasets, geolocating data, and “what if” exploration using OpenRefine. You will learn methods to:
+-extend a dataset with an additional variable
+-concatenate (join up) variables
+-revisit tidy data using GREL
+-create an interactive map from a dataset using Geo.json.io tool
+-share the map via Github
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This workshop is aimed at researchers and HDRs working with structured or semi-structured data.  
+
+### 
 
 ```markdown
 Syntax highlighted code block
