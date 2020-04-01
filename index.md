@@ -12,7 +12,7 @@ Learn these data wrangling skills at the beginning of data collection:
 Adapted from [Data Carpentry lessons for Social Science](https://datacarpentry.org/lessons/#social-science-curriculum/) 
 
 ### Advanced OpenRefine
-
+[Online lessons] (coming soon....)
 These lessons teach advanced data wrangling skills including combining datasets, geolocating data, and “what if” exploration using OpenRefine. You will learn methods to:
 -extend a dataset with an additional variable
 -concatenate (join up) variables
