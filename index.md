@@ -15,7 +15,7 @@ Learn these data wrangling skills at the beginning of data collection:
  - export and save in other file formats
 
 Adapted from [Data Carpentry lessons for Social Science](https://datacarpentry.org/lessons/#social-science-curriculum/) 
-
+___
 #### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
