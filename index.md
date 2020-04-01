@@ -1,7 +1,7 @@
 ### Data Wrangling with OpenRefine for Humanities and Social Sciences
 [Online lessons](https://github.com/GriffithUniLibrary/data-wrangling-intro/blob/master/data-wrangling-intro-for-hass-1.md)
 
-In these lessons we use Open Refine, an open source tool to scrutinize, clean, organise, combine and transform data.  It is particularly powerful when working with large datasets. The tool automatically tracks changes made to the data, producing a script to enable reproducibility and documentation to provide verification.  Many people comment that this tool saves them months of work trying to edit and clean by hand. 
+In these lessons you will learn basic data cleaning techniques using [Open Refine](https://openrefine.org/), an open source tool to scrutinize, clean, organise, combine and transform data.  It is particularly powerful when working with large datasets. The tool automatically tracks changes made to the data, producing a script to enable reproducibility and documentation to provide verification.  Many people comment that this tool saves them months of work trying to edit and clean by hand. 
 Learn these data wrangling skills at the beginning of data collection:
 - explore tabular data through facets and filters
 - implement ['tidy data principles'](https://vita.had.co.nz/papers/tidy-data.pdf)
