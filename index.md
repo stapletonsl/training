@@ -1,6 +1,4 @@
-## Online data training - Griffith University Library
-
-#### Data Wrangling with OpenRefine for Humanities and Social Sciences
+### Data Wrangling with OpenRefine for Humanities and Social Sciences
 [Online lessons](https://github.com/GriffithUniLibrary/data-wrangling-intro/blob/master/data-wrangling-intro-for-hass-1.md)
 
 In these lessons we use Open Refine, an open source tool to scrutinize, clean, organise, combine and transform data.  It is particularly powerful when working with large datasets. The tool automatically tracks changes made to the data, producing a script to enable reproducibility and documentation to provide verification.  Many people comment that this tool saves them months of work trying to edit and clean by hand. 
@@ -15,8 +13,10 @@ Learn these data wrangling skills at the beginning of data collection:
  - export and save in other file formats
 
 Adapted from [Data Carpentry lessons for Social Science](https://datacarpentry.org/lessons/#social-science-curriculum/) 
+
 ___
-#### Markdown
+
+### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
