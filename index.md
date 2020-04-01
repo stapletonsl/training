@@ -10,9 +10,9 @@ In this workshop we use Open Refine, an open source tool which you can use to sc
 
 When should you attend this training? At the beginning or during data collection. 
 
-[Online lessons] (https://github.com/GriffithUniLibrary/data-wrangling-intro/blob/master/data-wrangling-intro-for-hass-1.md) 
+[Online lessons](https://github.com/GriffithUniLibrary/data-wrangling-intro/blob/master/data-wrangling-intro-for-hass-1.md) 
 
-Adapted from [Data Carpentry lessons for Social Science] (https://datacarpentry.org/lessons/#social-science-curriculum/) 
+Adapted from [Data Carpentry lessons for Social Science](https://datacarpentry.org/lessons/#social-science-curriculum/) 
 
 ### Markdown
 
