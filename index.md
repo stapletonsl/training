@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/stapletonsl/training.githu
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Data Wrangling with OpenRefine for Humanities and Social Sciences.
+#### Data Wrangling with OpenRefine for Humanities and Social Sciences.
 
 [Online lessons](https://github.com/GriffithUniLibrary/data-wrangling-intro/blob/master/data-wrangling-intro-for-hass-1.md)
 
@@ -12,7 +12,7 @@ In this workshop we use Open Refine, an open source tool to scrutinize, clean, o
 When should you attend this training? At the beginning or during data collection. 
 Adapted from [Data Carpentry lessons for Social Science](https://datacarpentry.org/lessons/#social-science-curriculum/) 
 
-### Markdown
+#### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
