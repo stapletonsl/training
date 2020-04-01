@@ -15,22 +15,40 @@ Adapted from [Data Carpentry lessons for Social Science](https://datacarpentry.o
 [Online lessons] (coming soon....)
 
 These lessons teach advanced data wrangling skills including combining datasets, geolocating data, and “what if” exploration using OpenRefine. You will learn methods to:
--extend a dataset with an additional variable
--concatenate (join up) variables
--revisit tidy data using GREL
--create an interactive map from a dataset using Geo.json.io tool
--share the map via Github
+- extend a dataset with an additional variable
+- concatenate (join up) variables
+- revisit tidy data using GREL
+- create an interactive map from a dataset using Geo.json.io tool
+- share the map via Github
 
 This workshop is aimed at researchers and HDRs working with structured or semi-structured data.  
 
-### 
+### Visualisation basics for HASS researchers
+[Online lessons] (coming soon...)
+
+Visualising data can help us understand complex information quickly.   Transforming data into a visual format can:
+- reveal patterns and relationships
+- identify trends and
+- communicate insights with impact
+
+Explore methods and tools to create publication quality visualisations of complex, structured data from spreadsheets.
+
+### External Research Datasets Taster
+
+Lesson resources include:
+- Library Research Data Guide: https://libraryguides.griffith.edu.au/finddata 
+- available via the Library homepage https://www.griffith.edu.au/library > Research & Publishing > Working with Data >
+- Griffith eResearch resources and tools: https://www.griffith.edu.au/eresearch-services/resources
+- AURIN: https://aurin.org.au/  Select AURIN Portal and use your Griffith S number and pass to login.
+- ABS Microdata: https://www.abs.gov.au/websitedbs/d3310114.nsf/home/microdata+entry+page
+
 
 ```markdown
 Syntax highlighted code block
 
 # Header 1
 ## Header 2
-### Header 3
+
 
 - Bulleted
 - List
