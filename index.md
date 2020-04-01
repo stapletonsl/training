@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## Online data training - Griffith University Library
+![Image of Griffith University Library logo](/assets/LibraryLogo2020.png)
 
 You can use the [editor on GitHub](https://github.com/stapletonsl/training.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
