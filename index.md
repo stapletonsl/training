@@ -4,14 +4,14 @@ You can use the [editor on GitHub](https://github.com/stapletonsl/training.githu
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-# Data Wrangling with OpenRefine for Humanities and Social Sciences.
-
-Data wrangling prepares raw or messy data and transforms or maps it into a structured and organised format to enable processing and analysis. 
+## Data Wrangling with OpenRefine for Humanities and Social Sciences.
 
 In this workshop we use Open Refine, an open source tool which you can use to scrutinize, clean, organise, combine and transform data.  It is particularly powerful when working with large datasets. The tool automatically tracks changes made to the data, producing a script to enable reproducibility and documentation to provide verification.  Many people comment that this tool saves them months of work trying to edit and clean by hand. 
 
 When should you attend this training? At the beginning or during data collection. 
+
 [Online lessons] (https://github.com/GriffithUniLibrary/data-wrangling-intro/blob/master/data-wrangling-intro-for-hass-1.md) 
+
 Adapted from [Data Carpentry lessons for Social Science] (https://datacarpentry.org/lessons/#social-science-curriculum/) 
 
 ### Markdown
